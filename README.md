@@ -3,7 +3,7 @@
 - 👀 I’m currently looking for a job in business operations
 - 📫 How to reach me : chloe.charland@gmail.com 
 
-Please find here my latest data analytics project on [Paris 2024 Olympic Games]([https://link-url-here.org](https://lookerstudio.google.com/s/lkHru66XxXo)
+Please find here my latest data analytics project on [Paris 2024 Olympic Games]([https://lookerstudio.google.com/s/lkHru66XxXo)])
 
 <!---
 CCH56/CCH56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
